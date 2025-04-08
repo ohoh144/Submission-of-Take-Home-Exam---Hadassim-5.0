@@ -12,7 +12,7 @@ Getting the top N most frequent error codes costs:
 
 Overall Time Complexity:
     Best/Average Case: O(n + k log N)
-    Worst Case:        O(n + k log k)ש
+    Worst Case:        O(n + k log k)
 
 #Space Complexity:
 O(k + partition_size ) for storing counts and a temporary chunk.
